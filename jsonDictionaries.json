@@ -1,0 +1,2598 @@
+{
+    "a": {
+        "word": "a",
+        "type": "Letter, adjective, Article, verb, noun, numeral, symbol, pronoun, interjection, adverb, adposition",
+        "spelling": "/eɪ/, ə",
+        "meanings": [
+            {
+                "content": "một",
+                "type": "article",
+                "example": {
+                    "en": "Students often find it very difficult to understand a lecture in a foreign language.",
+                    "vi": "Sinh viên cảm thường thấy rất khó hiểu một bài giảng bằng tiếng nước ngoài."
+                }
+            },
+            {
+                "content": "a",
+                "type": "Letter noun",
+                "example": {
+                    "en": "Draw a line from A to B.",
+                    "vi": "Vẽ một đường từ A đến B."
+                }
+            },
+            {
+                "content": "con",
+                "type": "noun",
+                "example": {
+                    "en": "Tom doesn't know how to milk a cow.",
+                    "vi": "Tom không biết làm thế nào để vắt sữa con bò"
+                }
+            },
+            {
+                "content": "chiếc",
+                "type": "noun",
+                "example": {
+                    "en": "She gave me a watch.",
+                    "vi": "Cô ấy đã cho tôi 1 chiếc đồng hồ."
+                }
+            },
+            {
+                "content": "mỗi",
+                "type": "",
+                "example": {
+                    "en": "Mother comes to stay with us at least once a month.",
+                    "vi": "Mẹ đến ở với chúng tôi ít nhất là một lần mỗi tháng."
+                }
+            },
+            {
+                "content": "người",
+                "type": "Article",
+                "example": {
+                    "en": "Tom told me you were looking for a babysitter.",
+                    "vi": "Tom đã nói với tôi là bạn đang tìm người giữ trẻ."
+                }
+            },
+            {
+                "content": "cái",
+                "type": "Article",
+                "example": {
+                    "en": "Can anyone fix a flat tire?",
+                    "vi": "Có ai có thể vá cái lốp xẹp này không?"
+                }
+            },
+            {
+                "content": "cuốn",
+                "type": "Article",
+                "example": {
+                    "en": "I have never read such a scary novel.",
+                    "vi": "Tôi chưa từng đọc cuốn tiểu thuyết nào đáng sợ như vậy."
+                }
+            },
+            {
+                "content": "la",
+                "type": "verb noun",
+                "example": {
+                    "en": "Do you have change for a dollar?",
+                    "vi": "Bạn có đồng đô la tiền lẻ không?"
+                }
+            },
+            {
+                "content": "hạng nhất",
+                "type": "",
+                "example": {
+                    "en": "We fly first class to Detroit and lay low for a couple weeks.",
+                    "vi": "Chúng ta sẽ đi máy bay hạng nhất đến Detroit và đặt một tuần dành cho 2 người."
+                }
+            },
+            {
+                "content": "loại a",
+                "type": "",
+                "example": {
+                    "en": "we're looking for what the cia classifies a type-a personality.",
+                    "vi": "Chúng ta đang tìm cái mà CIA phân loại là hồ sơ cá nhân loại A."
+                }
+            },
+            {
+                "content": "mỗi một",
+                "type": "",
+                "example": {
+                    "en": "And they all just want one thing from a girl.",
+                    "vi": "Và tất cả bọn họ chỉ muốn mỗi một thứ của một cô gái."
+                }
+            },
+            {
+                "content": "một người",
+                "type": "",
+                "example": {
+                    "en": "A woman is taking down some notes on a pad of paper.",
+                    "vi": "Một người phụ nữ đang ghi chép lại một cái gì đó."
+                }
+            },
+            {
+                "content": "nhất",
+                "type": "adjective",
+                "example": {
+                    "en": "Mother comes to stay with us at least once a month.",
+                    "vi": "Mẹ đến ở với chúng tôi ít nhất là một lần mỗi tháng."
+                }
+            },
+            {
+                "content": "Tiếng Đài Loan",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "máy phát",
+                "type": "",
+                "example": {
+                    "en": "We developed a gel that contained hundreds of transmitters per ml.",
+                    "vi": "Chúng tôi đã phát triển một loại gel chứ hàng trăm máy phát trong một ml."
+                }
+            },
+            {
+                "content": "đánh dấu trọng âm",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "aa": {
+        "word": "aa",
+        "type": "adjective, noun",
+        "spelling": "/ˈɑːɑː/",
+        "meanings": [
+            {
+                "content": "Hội cai rượu",
+                "type": "",
+                "example": {
+                    "en": "But I like everything about aa.",
+                    "vi": "Nhưng tôi thích mọi thứ trong Hội cai rượu."
+                }
+            },
+            {
+                "content": "Hội ô tô",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "aaa": {
+        "word": "aaa",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aah": {
+        "word": "aah",
+        "type": "verb, noun, interjection",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aahed": {
+        "word": "aahed",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aahing": {
+        "word": "aahing",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aahs": {
+        "word": "aahs",
+        "type": "verb, noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aal": {
+        "word": "aal",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aalii": {
+        "word": "aalii",
+        "type": "noun",
+        "spelling": "/ɑːˈliːiː/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aaliis": {
+        "word": "aaliis",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aals": {
+        "word": "aals",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aam": {
+        "word": "aam",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aardvark": {
+        "word": "aardvark",
+        "type": "noun",
+        "spelling": "/ˈɑɹdˌvɑɹk/, ˈaːdvaːk, /ˈɑː(ɹ)dˌvɑː(ɹ)k/",
+        "meanings": [
+            {
+                "content": "lợn đất",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "aardvarks": {
+        "word": "aardvarks",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aardwolf": {
+        "word": "aardwolf",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "chó sói đất",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "Proteles cristata",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "aardwolves": {
+        "word": "aardwolves",
+        "type": "noun",
+        "spelling": "/ˈɑrdˌwʊlvz/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aargh": {
+        "word": "aargh",
+        "type": "interjection",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aaron": {
+        "word": "aaron",
+        "type": "noun, proper",
+        "spelling": "/ærən/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aaronic": {
+        "word": "aaronic",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aaronical": {
+        "word": "aaronical",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aaronite": {
+        "word": "aaronite",
+        "type": "noun",
+        "spelling": "/ˈeə(ɹ)n̩aɪt/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aaronitic": {
+        "word": "aaronitic",
+        "type": "",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aarrgh": {
+        "word": "aarrgh",
+        "type": "interjection",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aarrghh": {
+        "word": "aarrghh",
+        "type": "interjection",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aaru": {
+        "word": "aaru",
+        "type": "",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aas": {
+        "word": "aas",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aasvogel": {
+        "word": "aasvogel",
+        "type": "noun",
+        "spelling": "/asfoɡəl/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "aasvogels": {
+        "word": "aasvogels",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "ab": {
+        "word": "ab",
+        "type": "noun, verb, adverb, adposition",
+        "spelling": "/æb/",
+        "meanings": [
+            {
+                "content": "múi",
+                "type": "",
+                "example": {
+                    "en": "It's the best way to get abs.",
+                    "vi": "Đây là cách tốt nhất để có bụng sáu múi."
+                }
+            },
+            {
+                "content": "cơ bụng",
+                "type": "",
+                "example": {
+                    "en": "And you have to buy a one-piece because your abs start disappearing under your giant foopa.",
+                    "vi": "Và rồi cậu phải mua áo tắm liền Vì cơ bụng của cậu bắt đầu biến mất Bên dưới thì thật tồi tệ."
+                }
+            },
+            {
+                "content": "múi cơ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "Cử nhân văn chương",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "thủy thủ hạng nhất",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "aba": {
+        "word": "aba",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "áo aba",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "ababdeh": {
+        "word": "ababdeh",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abac": {
+        "word": "abac",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abaca": {
+        "word": "abaca",
+        "type": "noun",
+        "spelling": "ˌæb.əˈkɑ",
+        "meanings": [
+            {
+                "content": "chuối sợi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "cây chuối abaca",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abacas": {
+        "word": "abacas",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abacate": {
+        "word": "abacate",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abacaxi": {
+        "word": "abacaxi",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abaci": {
+        "word": "abaci",
+        "type": "noun",
+        "spelling": "/ˈæbəˌsaɪ, -ˌkaɪ, əˈbækaɪ/",
+        "meanings": [
+            {
+                "content": "bàn tính",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "đầu cột",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "đỉnh cột",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abacinate": {
+        "word": "abacinate",
+        "type": "verb",
+        "spelling": "æbˈæsɪneɪt",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abacination": {
+        "word": "abacination",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abacisci": {
+        "word": "abacisci",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abaciscus": {
+        "word": "abaciscus",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abacist": {
+        "word": "abacist",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "người gãy bàn phím",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "người kế toán",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "aback": {
+        "word": "aback",
+        "type": "noun, adverb",
+        "spelling": "/əˈbæk/",
+        "meanings": [
+            {
+                "content": "lùi lại",
+                "type": "adverb",
+                "example": {}
+            },
+            {
+                "content": "về",
+                "type": "adverb",
+                "example": {}
+            },
+            {
+                "content": "trở lại",
+                "type": "adverb",
+                "example": {}
+            },
+            {
+                "content": "đằng sau",
+                "type": "adverb",
+                "example": {}
+            },
+            {
+                "content": "sửng sốt",
+                "type": "",
+                "example": {
+                    "en": "And I was rather taken aback.",
+                    "vi": "Tôi đã thực sự sửng sốt."
+                }
+            },
+            {
+                "content": "ngạc nhiên",
+                "type": "adverb",
+                "example": {
+                    "en": "To my surprise, he was distinctly taken aback.",
+                    "vi": "Thật bất ngờ, anh ta ngạc nhiên vì câu hỏi đó."
+                }
+            },
+            {
+                "content": "trở lại phía sau",
+                "type": "adverb",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abarticulation": {
+        "word": "abarticulation",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abas": {
+        "word": "abas",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abase": {
+        "word": "abase",
+        "type": "verb",
+        "spelling": "/əˈbeɪs/",
+        "meanings": [
+            {
+                "content": "làm nhục",
+                "type": "",
+                "example": {
+                    "en": "You must abase yourself before her.",
+                    "vi": "Ngươi phải tự làm nhục mình trước nó."
+                }
+            },
+            {
+                "content": "làm hạ phẩm giá",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm mất thể diện",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abased": {
+        "word": "abased",
+        "type": "adjective, verb",
+        "spelling": "/əˈbeɪst/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abasedly": {
+        "word": "abasedly",
+        "type": "adverb",
+        "spelling": "/əˈbeɪsɪdli/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abasedness": {
+        "word": "abasedness",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abasement": {
+        "word": "abasement",
+        "type": "noun",
+        "spelling": "/əˈbeɪs.mənt/",
+        "meanings": [
+            {
+                "content": "sự làm nhục",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abasements": {
+        "word": "abasements",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abaser": {
+        "word": "abaser",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abasers": {
+        "word": "abasers",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abases": {
+        "word": "abases",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abash": {
+        "word": "abash",
+        "type": "verb",
+        "spelling": "/əˈbæʃ/",
+        "meanings": [
+            {
+                "content": "làm bối rối",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm luống cuống",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm lúng túng",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abashed": {
+        "word": "abashed",
+        "type": "adjective, verb",
+        "spelling": "/əˈbæʃt/",
+        "meanings": [
+            {
+                "content": "bối rối",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "luống cuống",
+                "type": "adjective",
+                "example": {}
+            },
+            {
+                "content": "xấu hổ",
+                "type": "",
+                "example": {
+                    "en": "21. (a) How will ‘the full moon become abashed and the glowing sun become ashamed’?",
+                    "vi": "21. (a) “Mặt trăng sẽ xấu-hổ, mặt trời sẽ mất-cỡ” như thế nào?"
+                }
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abashedly": {
+        "word": "abashedly",
+        "type": "adverb",
+        "spelling": "/əˈbæʃɪdli/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abashedness": {
+        "word": "abashedness",
+        "type": "noun",
+        "spelling": "/əˈbæʃɪdnɪs/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abashes": {
+        "word": "abashes",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abashing": {
+        "word": "abashing",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abashless": {
+        "word": "abashless",
+        "type": "adjective",
+        "spelling": "/əˈbæʃlɪs/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abashlessly": {
+        "word": "abashlessly",
+        "type": "adverb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abashment": {
+        "word": "abashment",
+        "type": "noun",
+        "spelling": "/əˈbæʃmənt/",
+        "meanings": [
+            {
+                "content": "sự bối rối",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự luống cuống",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự lúng túng",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abashments": {
+        "word": "abashments",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abasia": {
+        "word": "abasia",
+        "type": "noun",
+        "spelling": "/ə.'beɪ.ʒi.ə/, /ə.'beɪ.zi.ə/, /ə.'beɪ.ʒə/",
+        "meanings": [
+            {
+                "content": "không đi đươk",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abasias": {
+        "word": "abasias",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abasic": {
+        "word": "abasic",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abasing": {
+        "word": "abasing",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abask": {
+        "word": "abask",
+        "type": "adverb",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "dưới ánh mặt trời",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "dưới ánh nắng",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "trong ánh lửa ấm",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abassi": {
+        "word": "abassi",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abastard": {
+        "word": "abastard",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abastardize": {
+        "word": "abastardize",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abatable": {
+        "word": "abatable",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "có thể bớt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể chấm dứt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể giảm bớt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể huỷ bỏ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể hạ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể làm dịu",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể làm nhụt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể thanh trừ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "có thể thủ tiêu",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abatage": {
+        "word": "abatage",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abate": {
+        "word": "abate",
+        "type": "verb, noun",
+        "spelling": "/əˈbeɪt/, əbeɪt",
+        "meanings": [
+            {
+                "content": "bớt",
+                "type": "verb",
+                "example": {
+                    "en": "The canneries are gone. The pollution has abated.",
+                    "vi": "Những nhà máy đồ hộp không còn. Sự ô nhiễm đã giảm bớt."
+                }
+            },
+            {
+                "content": "ngớt",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "hạ",
+                "type": "verb",
+                "example": {
+                    "en": "Finally, the waters began to abate.",
+                    "vi": "Cuối cùng, nước bắt đầu hạ xuống."
+                }
+            },
+            {
+                "content": "đỡ",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "huỷ bỏ",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "thanh toán",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "thủ tiêu",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "đi",
+                "type": "verb",
+                "example": {
+                    "en": "when the insecurities might abate?",
+                    "vi": "khi mà tình trạng không an toàn đã dịu đi?"
+                }
+            },
+            {
+                "content": "nhụt",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "mất hết",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "ram",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "hủy bỏ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "dịu đi",
+                "type": "",
+                "example": {
+                    "en": "when the insecurities might abate?",
+                    "vi": "khi mà tình trạng không an toàn đã dịu đi?"
+                }
+            },
+            {
+                "content": "cất cơn",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "khấu trừ",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "làm cùn",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm dịu",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "làm dịu đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm giảm bớt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm mất hết",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm nhụt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "làm yếu đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "nhụt đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "yếu đi",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abated": {
+        "word": "abated",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abatement": {
+        "word": "abatement",
+        "type": "noun",
+        "spelling": "əˈbeɪtmənt",
+        "meanings": [
+            {
+                "content": "sự dịu đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự chấm dứt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự giảm bớt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự huỷ bỏ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự hạ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự ngớt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự nhụt đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự thanh toán",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự thủ tiêu",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự yếu đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự đỡ",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abatements": {
+        "word": "abatements",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abater": {
+        "word": "abater",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "người giảm bớt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "thuốc làm dịu",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abaters": {
+        "word": "abaters",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abates": {
+        "word": "abates",
+        "type": "verb, noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abatic": {
+        "word": "abatic",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abating": {
+        "word": "abating",
+        "type": "noun, verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abatis": {
+        "word": "abatis",
+        "type": "noun",
+        "spelling": "æbətiː",
+        "meanings": [
+            {
+                "content": "đống cây chướng ngại",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "đống cây cản",
+                "type": "noun",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abatised": {
+        "word": "abatised",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "có đống cây cản",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abatises": {
+        "word": "abatises",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abatjour": {
+        "word": "abatjour",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abatjours": {
+        "word": "abatjours",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abaton": {
+        "word": "abaton",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abator": {
+        "word": "abator",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abators": {
+        "word": "abators",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abattage": {
+        "word": "abattage",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abattis": {
+        "word": "abattis",
+        "type": "noun",
+        "spelling": "əˈbæ.tɪs",
+        "meanings": [
+            {
+                "content": "đống cây chướng ngại",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "đống cây cản",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abattised": {
+        "word": "abattised",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abattises": {
+        "word": "abattises",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abattoir": {
+        "word": "abattoir",
+        "type": "noun",
+        "spelling": "ˈæbəˌtwɑː, /ˈæb.ə.twɑː/",
+        "meanings": [
+            {
+                "content": "lò mổ",
+                "type": "noun",
+                "example": {
+                    "en": "It's a hospital, not an abattoir.",
+                    "vi": "Đây là bệnh viện, không phải lò mổ."
+                }
+            },
+            {
+                "content": "lò sát sinh",
+                "type": "noun",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abattoirs": {
+        "word": "abattoirs",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abature": {
+        "word": "abature",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abaxial": {
+        "word": "abaxial",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "xa trục",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "ở ngoài trục",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abaxile": {
+        "word": "abaxile",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abb": {
+        "word": "abb",
+        "type": "noun",
+        "spelling": "/æb/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abba": {
+        "word": "abba",
+        "type": "noun",
+        "spelling": "/æbə/",
+        "meanings": [
+            {
+                "content": "ABBA",
+                "type": "",
+                "example": {
+                    "en": "My ring tone for you is Dancing Queen by Abba.",
+                    "vi": "Nhạc chuông của cậu là \" Dancing queen \" của ABBA."
+                }
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbacy": {
+        "word": "abbacy",
+        "type": "noun",
+        "spelling": "ˈæb.ə.si",
+        "meanings": [
+            {
+                "content": "chức vị trưởng tu viện",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "chức vị viện chủ tu viện",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "quyền hạn trưởng tu viện",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "quyền hạn viện chủ tu viện",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "tu viện",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "nhà tu",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbacies": {
+        "word": "abbacies",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbadide": {
+        "word": "abbadide",
+        "type": "",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbaye": {
+        "word": "abbaye",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbas": {
+        "word": "abbas",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbasi": {
+        "word": "abbasi",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbasid": {
+        "word": "abbasid",
+        "type": "adjective, noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbassi": {
+        "word": "abbassi",
+        "type": "",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbasside": {
+        "word": "abbasside",
+        "type": "adjective, noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbate": {
+        "word": "abbate",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbatial": {
+        "word": "abbatial",
+        "type": "adjective",
+        "spelling": "əˈbeɪ.ʃl̩",
+        "meanings": [
+            {
+                "content": "trưởng tu viện",
+                "type": "adjective",
+                "example": {}
+            },
+            {
+                "content": "thuộc về tu viện",
+                "type": "adjective",
+                "example": {}
+            },
+            {
+                "content": "viện chủ tu viện",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbatical": {
+        "word": "abbatical",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbatie": {
+        "word": "abbatie",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbe": {
+        "word": "abbe",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbey": {
+        "word": "abbey",
+        "type": "noun",
+        "spelling": "ˈæbi, /ˈæb.i/",
+        "meanings": [
+            {
+                "content": "tu viện",
+                "type": "noun",
+                "example": {
+                    "en": "Whatever happens you must bring those beans back to the abbey.",
+                    "vi": "Dù xảy ra chuyện gì cũng phải mang chúng đến tu viện."
+                }
+            },
+            {
+                "content": "nhà tu",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "các nhà tu",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "giới tu sĩ",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbeys": {
+        "word": "abbeys",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbeystead": {
+        "word": "abbeystead",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbeystede": {
+        "word": "abbeystede",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbes": {
+        "word": "abbes",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbess": {
+        "word": "abbess",
+        "type": "noun",
+        "spelling": "/ˈæbɪs/",
+        "meanings": [
+            {
+                "content": "bà",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "nữ",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "bà trưởng tu viện",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "trưởng tu viện",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "Viện mẫu",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbesses": {
+        "word": "abbesses",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbevillian": {
+        "word": "abbevillian",
+        "type": "adjective, proper",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abby": {
+        "word": "abby",
+        "type": "proper",
+        "spelling": "/ˈæb.i/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbie": {
+        "word": "abbie",
+        "type": "proper",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbot": {
+        "word": "abbot",
+        "type": "noun",
+        "spelling": "ˈæbət, /ˈæb.ət/",
+        "meanings": [
+            {
+                "content": "cha trưởng tu viện",
+                "type": "noun",
+                "example": {
+                    "en": "The abbot said... Natre will be cremated today.",
+                    "vi": "Cha trưởng tu viện nói... họ sẽ hoả táng Natre hôm nay."
+                }
+            },
+            {
+                "content": "trưởng tu viện",
+                "type": "noun",
+                "example": {
+                    "en": "The abbot said... Natre will be cremated today.",
+                    "vi": "Cha trưởng tu viện nói... họ sẽ hoả táng Natre hôm nay."
+                }
+            },
+            {
+                "content": "Viện phụ",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "viện chủ tu viện",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbotcy": {
+        "word": "abbotcy",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbotcies": {
+        "word": "abbotcies",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbotric": {
+        "word": "abbotric",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbots": {
+        "word": "abbots",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbotship": {
+        "word": "abbotship",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "nhà tu",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "tu viện",
+                "type": "noun",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbotships": {
+        "word": "abbotships",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbott": {
+        "word": "abbott",
+        "type": "proper",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbozzo": {
+        "word": "abbozzo",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbr": {
+        "word": "abbr",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "chữ viết tắt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "viết tắt",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbrev": {
+        "word": "abbrev",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbreviate": {
+        "word": "abbreviate",
+        "type": "adjective, verb, noun",
+        "spelling": "əˈbriːvɪeɪt, /əˈbriːvieɪt/",
+        "meanings": [
+            {
+                "content": "rút gọn",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "tương đối ngắn",
+                "type": "adjective",
+                "example": {}
+            },
+            {
+                "content": "viết tắt",
+                "type": "verb",
+                "example": {
+                    "en": "All she could do was parrot a garbled abbreviation",
+                    "vi": "Tất cả những gì cô ấy có thể làm là nhại lại một từ viết tắt rời rạc"
+                }
+            },
+            {
+                "content": "ước lược",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "tóm tắt",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "rút ngắn lại",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbreviated": {
+        "word": "abbreviated",
+        "type": "adjective, verb",
+        "spelling": "/əˈbriːvieɪtɪd/",
+        "meanings": [
+            {
+                "content": "ngắn cũn cỡn",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "rút ngắn lại",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "tóm tắt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "viết tắt",
+                "type": "noun",
+                "example": {
+                    "en": "All she could do was parrot a garbled abbreviation",
+                    "vi": "Tất cả những gì cô ấy có thể làm là nhại lại một từ viết tắt rời rạc"
+                }
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbreviately": {
+        "word": "abbreviately",
+        "type": "adverb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbreviates": {
+        "word": "abbreviates",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbreviating": {
+        "word": "abbreviating",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbreviation": {
+        "word": "abbreviation",
+        "type": "noun",
+        "spelling": "/əˌbriːviˈeɪʃən/, əˌbriːvɪˈeɪʃn",
+        "meanings": [
+            {
+                "content": "chữ viết tắt",
+                "type": "noun",
+                "example": {
+                    "en": "The following abbreviations are used throughout the booklet:",
+                    "vi": "Những chữ viết tắt sau đây được dùng trong suốt quyển sách nhỏ này:"
+                }
+            },
+            {
+                "content": "sự rút ngắn",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "bài tóm tắt",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "sự rút gọn",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "từ viết tắt",
+                "type": "",
+                "example": {
+                    "en": "All she could do was parrot a garbled abbreviation",
+                    "vi": "Tất cả những gì cô ấy có thể làm là nhại lại một từ viết tắt rời rạc"
+                }
+            },
+            {
+                "content": "sự tóm tắt",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "chữ tắt",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "sự ước lược",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "Viết tắt",
+                "type": "",
+                "example": {
+                    "en": "All she could do was parrot a garbled abbreviation",
+                    "vi": "Tất cả những gì cô ấy có thể làm là nhại lại một từ viết tắt rời rạc"
+                }
+            },
+            {
+                "content": "chöõ vieát taét",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbreviations": {
+        "word": "abbreviations",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbreviator": {
+        "word": "abbreviator",
+        "type": "noun",
+        "spelling": "əˈbɹiː.viˌeɪ.tə",
+        "meanings": [
+            {
+                "content": "người tóm tắt",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abbreviatory": {
+        "word": "abbreviatory",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbreviators": {
+        "word": "abbreviators",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abbreviature": {
+        "word": "abbreviature",
+        "type": "noun",
+        "spelling": "əˈbɹi.vi.əˌt͡ʃʊɹ",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abc": {
+        "word": "abc",
+        "type": "noun, abbreviation",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "bảng chữ cái",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "cơ sở",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "khái niệm cơ sở",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abcess": {
+        "word": "abcess",
+        "type": "",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abcoulomb": {
+        "word": "abcoulomb",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abd": {
+        "word": "abd",
+        "type": "abbreviation",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdal": {
+        "word": "abdal",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdali": {
+        "word": "abdali",
+        "type": "",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abderian": {
+        "word": "abderian",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abderite": {
+        "word": "abderite",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdest": {
+        "word": "abdest",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdicable": {
+        "word": "abdicable",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdicant": {
+        "word": "abdicant",
+        "type": "adjective, noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "người thoái vị",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "người từ bỏ",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdicate": {
+        "word": "abdicate",
+        "type": "verb",
+        "spelling": "/ˈæbdɪkeɪt/, ˈæbdikeɪt",
+        "meanings": [
+            {
+                "content": "từ bỏ",
+                "type": "verb",
+                "example": {
+                    "en": "Unfortunately, far too many fathers abdicate this eternal responsibility.",
+                    "vi": "Rủi thay, có quá nhiều người cha từ bỏ trách nhiệm vĩnh cửu này."
+                }
+            },
+            {
+                "content": "thoái vị",
+                "type": "verb",
+                "example": {
+                    "en": "My son... a true leader does not abdicate at the start of a crisis.",
+                    "vi": "Con trai... một lãnh đạo chân chính sẽ không thoái vị trước một cơn khủng hoảng."
+                }
+            },
+            {
+                "content": "từ ngôi",
+                "type": "verb",
+                "example": {}
+            },
+            {
+                "content": "bỏ",
+                "type": "verb",
+                "example": {
+                    "en": "Unfortunately, far too many fathers abdicate this eternal responsibility.",
+                    "vi": "Rủi thay, có quá nhiều người cha từ bỏ trách nhiệm vĩnh cửu này."
+                }
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdicated": {
+        "word": "abdicated",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdicates": {
+        "word": "abdicates",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdicating": {
+        "word": "abdicating",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdication": {
+        "word": "abdication",
+        "type": "noun",
+        "spelling": "ˌæb.dəˈkeɪ.ʃən",
+        "meanings": [
+            {
+                "content": "sự thoái vị",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "sự từ bỏ",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "sự từ ngôi",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "Thoái vị",
+                "type": "",
+                "example": {
+                    "en": "My son... a true leader does not abdicate at the start of a crisis.",
+                    "vi": "Con trai... một lãnh đạo chân chính sẽ không thoái vị trước một cơn khủng hoảng."
+                }
+            },
+            {
+                "content": "sự nhường ngôi",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdications": {
+        "word": "abdications",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdicative": {
+        "word": "abdicative",
+        "type": "adjective, noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdicator": {
+        "word": "abdicator",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "người thoái vị",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "người từ bỏ",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdiel": {
+        "word": "abdiel",
+        "type": "proper",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abditive": {
+        "word": "abditive",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abditory": {
+        "word": "abditory",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdomen": {
+        "word": "abdomen",
+        "type": "noun",
+        "spelling": "/ˈæbdəmən/",
+        "meanings": [
+            {
+                "content": "bụng",
+                "type": "noun",
+                "example": {
+                    "en": "Pain could be caused by a blind uterus hidden in his abdomen.",
+                    "vi": "Cơn đau có thể là do có tử cung ẩn trong bụng thằng bé."
+                }
+            },
+            {
+                "content": "bụng dạ",
+                "type": "noun",
+                "example": {}
+            },
+            {
+                "content": "buïng",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "Bụng",
+                "type": "",
+                "example": {
+                    "en": "It 's normal for a baby 's abdomen to appear somewhat full and rounded .",
+                    "vi": "Bụng của trẻ thường hơi tròn và đầy đặn ."
+                }
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdomens": {
+        "word": "abdomens",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdomina": {
+        "word": "abdomina",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominal": {
+        "word": "abdominal",
+        "type": "adjective, noun",
+        "spelling": "æbˈdɒm.ə.nl̩",
+        "meanings": [
+            {
+                "content": "ở bụng",
+                "type": "",
+                "example": {
+                    "en": "Resulting abdominal pain persisted for several days, so I went to see a doctor.",
+                    "vi": "Hậu quả là cơn đau ở bụng kéo dài mấy ngày liền nên tôi đi khám bác sĩ."
+                }
+            },
+            {
+                "content": "bụng",
+                "type": "noun",
+                "example": {
+                    "en": "I have abdominal gas.",
+                    "vi": "Bụng tôi bị đầy hơi."
+                }
+            },
+            {
+                "content": "thuộc về bụng",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdominalia": {
+        "word": "abdominalia",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominally": {
+        "word": "abdominally",
+        "type": "adverb",
+        "spelling": "",
+        "meanings": [
+            {
+                "content": "bụng",
+                "type": "noun",
+                "example": {
+                    "en": "I have abdominal gas.",
+                    "vi": "Bụng tôi bị đầy hơi."
+                }
+            },
+            {
+                "content": "ở bụng",
+                "type": "",
+                "example": {
+                    "en": "Resulting abdominal pain persisted for several days, so I went to see a doctor.",
+                    "vi": "Hậu quả là cơn đau ở bụng kéo dài mấy ngày liền nên tôi đi khám bác sĩ."
+                }
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdominals": {
+        "word": "abdominals",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominocardiac": {
+        "word": "abdominocardiac",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominocentesis": {
+        "word": "abdominocentesis",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominocystic": {
+        "word": "abdominocystic",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominogenital": {
+        "word": "abdominogenital",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominohysterectomy": {
+        "word": "abdominohysterectomy",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominohysterotomy": {
+        "word": "abdominohysterotomy",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominoscopy": {
+        "word": "abdominoscopy",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominothoracic": {
+        "word": "abdominothoracic",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominous": {
+        "word": "abdominous",
+        "type": "adjective",
+        "spelling": "æbˈdɒm.ə.nəs",
+        "meanings": [
+            {
+                "content": "phệ bụng",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abdominovaginal": {
+        "word": "abdominovaginal",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abdominovesical": {
+        "word": "abdominovesical",
+        "type": "adjective",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abduce": {
+        "word": "abduce",
+        "type": "verb",
+        "spelling": "/æbˈdus/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abduced": {
+        "word": "abduced",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abducens": {
+        "word": "abducens",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abducent": {
+        "word": "abducent",
+        "type": "adjective, noun",
+        "spelling": "æbˈdus.ənt",
+        "meanings": [
+            {
+                "content": "giạng ra",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "rẽ ra",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abducentes": {
+        "word": "abducentes",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abduces": {
+        "word": "abduces",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abducing": {
+        "word": "abducing",
+        "type": "verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abduct": {
+        "word": "abduct",
+        "type": "verb",
+        "spelling": "/æbˈdʌkt/",
+        "meanings": [
+            {
+                "content": "bắt cóc",
+                "type": "verb",
+                "example": {
+                    "en": "Two winters ago, my little sister was abducted by child snatchers.",
+                    "vi": "Mùa đông hai năm trước, em gái tôi bị bắt cóc bởi lũ bắt cóc trẻ con."
+                }
+            },
+            {
+                "content": "giạng ra",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "rẽ ra",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "cuỗm đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "lừa đem đi",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abducted": {
+        "word": "abducted",
+        "type": "adjective, verb",
+        "spelling": "/æbˈdʌktɪd/",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abducting": {
+        "word": "abducting",
+        "type": "adjective, verb",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    },
+    "abduction": {
+        "word": "abduction",
+        "type": "noun",
+        "spelling": "æbˈdʌkʃən, /æbˈdʌk.ʃən/, /əbˈdʌk.ʃən/",
+        "meanings": [
+            {
+                "content": "sự bắt cóc",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự bắt đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự cuỗm đi",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự giạng ra",
+                "type": "",
+                "example": {}
+            },
+            {
+                "content": "sự lừa đem đi",
+                "type": "",
+                "example": {}
+            }
+        ],
+        "hasAudio": 1
+    },
+    "abductions": {
+        "word": "abductions",
+        "type": "noun",
+        "spelling": "",
+        "meanings": [],
+        "hasAudio": 1
+    }
+}
